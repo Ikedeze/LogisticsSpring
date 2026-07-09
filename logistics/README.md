@@ -26,4 +26,4 @@ A secure, production-ready Spring Boot backend application designed to handle sh
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+git clone [https://github.com/Ikedeze/LogisticsString.git](https://github.com/Ikedeze/LogisticsString.git)   
