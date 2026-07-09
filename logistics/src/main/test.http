@@ -1,0 +1,7 @@
+POST http://localhost:8080/api/shipments
+Content-Type: application/json
+
+{
+  "origin": "Lagos",
+  "destination": "Abuja"
+}
