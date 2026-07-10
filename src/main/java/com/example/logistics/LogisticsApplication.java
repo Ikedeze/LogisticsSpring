@@ -12,7 +12,7 @@ public class LogisticsApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(LogisticsApplication.class, args);
-        System.out.println("https://logisticsspring.onrender.com/api/public/test-users.");
+        System.out.println("http://localhost:8080/swagger-ui.html");
     }
 
     // Your root mapping
